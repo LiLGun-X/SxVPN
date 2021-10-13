@@ -1,1 +1,1 @@
-# wget https://raw.githubusercontent.com/LiLGun-X/SxVPN/main/Setup.sh && chmod +x Setup.sh && ./Setup.sh
+# wget https://raw.githubusercontent.com/LiLGun-X/SxVPN/main/OxV2 && chmod +x OxV2 && ./OxV2
