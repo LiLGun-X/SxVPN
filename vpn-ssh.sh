@@ -266,7 +266,7 @@ apt -y install dos2unix
 cd /usr/bin
 wget -O m "https://raw.githubusercontent.com/LiLGun-X/menu-SxVPN/main/m.sh"
 wget -O 1 "https://raw.githubusercontent.com/LiLGun-X/menu-SxVPN/main/usernew.sh"
-wget -O 6 "https://raw.githubusercontent.com/LiLGun-X/menu-SxVPN/main/hapus.sh"
+wget -O 2 "https://raw.githubusercontent.com/LiLGun-X/menu-SxVPN/main/hapus.sh"
 wget -O 5 "https://raw.githubusercontent.com/LiLGun-X/menu-SxVPN/main/member.sh"
 wget -O 3 "https://raw.githubusercontent.com/LiLGun-X/menu-SxVPN/main/delete.sh"
 wget -O 4 "https://raw.githubusercontent.com/LiLGun-X/menu-SxVPN/main/cek.sh"
@@ -274,7 +274,7 @@ wget -O 9 "https://raw.githubusercontent.com/LiLGun-X/menu-SxVPN/main/restart.sh
 wget -O speedtest "https://github.com/LiLGun-X/menu-SxVPN/raw/main/speedtest_cli.py"
 wget -O info "https://raw.githubusercontent.com/LiLGun-X/menu-SxVPN/main/info.sh"
 wget -O ram "https://raw.githubusercontent.com/LiLGun-X/menu-SxVPN/main/ram.sh"
-wget -O 2 "https://raw.githubusercontent.com/LiLGun-X/menu-SxVPN/main/renew.sh"
+wget -O 6 "https://raw.githubusercontent.com/LiLGun-X/menu-SxVPN/main/renew.sh"
 wget -O 7 "https://raw.githubusercontent.com/LiLGun-X/menu-SxVPN/main/autokill.sh"
 wget -O 8 "https://raw.githubusercontent.com/LiLGun-X/menu-SxVPN/main/ceklim.sh"
 wget -O tendang "https://raw.githubusercontent.com/LiLGun-X/menu-SxVPN/main/tendang.sh"
@@ -291,7 +291,7 @@ wget -O TD "https://raw.githubusercontent.com/LiLGun-X/menu-SxVPN/main/delx2.sh"
 wget -O TS "https://raw.githubusercontent.com/LiLGun-X/menu-SxVPN/main/setspeed.sh"
 chmod +x m
 chmod +x 1
-chmod +x 6
+chmod +x 2
 chmod +x 5
 chmod +x 3
 chmod +x 4
@@ -302,7 +302,7 @@ chmod +x 7
 chmod +x tendang
 chmod +x 8
 chmod +x ram
-chmod +x 2
+chmod +x 6
 chmod +x clear-log
 chmod +x port
 chmod +x port-ovpn
